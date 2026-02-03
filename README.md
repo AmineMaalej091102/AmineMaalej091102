@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hello, I'm Mohamed Amine Maalej
 
-<!--
-**AmineMaalej091102/AmineMaalej091102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Data Science Engineering Student | Applied Mathematics Enthusiast | AI Architect
 
-Here are some ideas to get you started:
+I am a bridge-builder between **complex mathematical theory** and **scalable AI solutions**. Currently an IT Engineering student at **ESPRIT**, I leverage my background in **Applied Mathematics** to build "big picture" systems that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 My Technical Arsenal
+
+- **Languages:** `Python` | `C#` | `Java` | `Dart` | `C` | `SQL`
+- **AI & Research:** `Machine Learning` | `Deep Learning` | `MLOps` | `LangChain` | `TensorFlow Lite`
+- **Data Engineering:** `Big Data (HDFS, Hive)` | `MongoDB` | `Neo4j` | `PostgreSQL` | `Oracle`
+- **Specialties:** `Precision Agriculture` | `IoT Simulations (Wokwi)` | `Satellite Imagery Analysis`
+
+---
+
+## 🌟 Featured Project: AgriSmart
+I am currently architecting **AgriSmart**, a holistic ecosystem for precision farming.
+
+* **Autonomous IoT Agents:** LangChain-based decision making for irrigation.
+* **Geospatial Intelligence:** NDVI calculation and VRA mapping using Sentinel-2 satellite data.
+* **Edge AI:** Real-time crop disease detection on mobile via TensorFlow Lite.
+* **Voice Interface:** Hands-free livestock management using Whisper and Ollama.
+
+
+
+---
+
+## 📈 My Journey
+- 🎓 **Currently:** Engineering Cycle in IT at **ESPRIT**.
+- 🎓 **Background:** Bachelor’s in **Applied Mathematics** from **FST**.
+- 💡 **Passion:** I spend my "day and night" cycles trying to see the global architecture of systems. I love learning new tech and mentoring others in data science.
+
+---
+
+## 📫 Connect with me
+- **LinkedIn:** [Amine Maalej](https://www.linkedin.com/in/amine-maalej-940b65184/)
+- **Email:** [maalejamine55@gmail.com](mailto:maalejamine55@gmail.com)
+- **Interests:** Football ⚽ | Emerging AI Research 🧠 | Technical Teaching 👨‍🏫
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+*Note: Replace `YOUR_GITHUB_USERNAME` in the links above with your actual GitHub username.*
