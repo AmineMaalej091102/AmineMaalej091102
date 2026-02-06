@@ -59,7 +59,7 @@ I am currently architecting **AgriSmart**, a holistic ecosystem for precision fa
 
 ## 📫 Connect with me
 - **LinkedIn:** [Amine Maalej](https://www.linkedin.com/in/amine-maalej-940b65184/)
-- **Kaggle:**[Amine Maalej](https://www.kaggle.com/aminemaalej)
+- **Kaggle:** [Amine Maalej](https://www.kaggle.com/aminemaalej)
 - **Email:** [maalejamine55@gmail.com](mailto:maalejamine55@gmail.com)
 - **Interests:** Football ⚽ | Emerging AI Research 🧠 | Technical Teaching 👨‍🏫
 
